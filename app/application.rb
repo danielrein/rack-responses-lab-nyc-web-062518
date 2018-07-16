@@ -5,3 +5,5 @@ def greet
     resp.write "Good Afternoon!"
   end
 end
+
+greet
