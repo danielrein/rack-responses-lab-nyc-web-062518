@@ -11,3 +11,5 @@ def call(env)
 end
 
 end
+
+run Application.new
