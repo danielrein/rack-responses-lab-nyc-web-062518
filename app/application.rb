@@ -1,3 +1,5 @@
+class Application
+
 def greet
   if Time.now.hour < 12
     resp.write "Good Morning!"
@@ -7,3 +9,5 @@ def greet
 end
 
 greet
+
+end
