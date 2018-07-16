@@ -8,6 +8,4 @@ def greet
   end
 end
 
-greet
-
 end
